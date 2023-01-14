@@ -1,5 +1,8 @@
 # ORCHESTRATION-AND-HARDENING-AUTOMATION-OF-LAMP-STACK-ON-GOOGLE-CLOUD-PLATFORM
 
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/105025973/212477519-9661c267-8aff-4679-abac-98430f680a18.png">
+
+
 
 # The Problem:
 Developer require an efficient, simple, and quick way to :
